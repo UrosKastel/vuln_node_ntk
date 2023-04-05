@@ -34,6 +34,7 @@ docker run --rm --publish 3000:3000 --name nodeexpressvulny stackhawk/nodeexpres
 ### Build and Run in Docker Compose
 ```shell script
 docker-compose up --build --detach
+ACCESS Key = "AKIAIOSFODNN7EXAMPLE"
 ```
 
 ## Known Vulnerabilities
