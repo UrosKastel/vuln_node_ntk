@@ -16,6 +16,10 @@ var port = normalizePort(process.env.PORT || '3000');
 app.set('port', port);
 
 /**
+Access key = "AKIAIOSFODNN7EXAMPLE"
+password = "Pass@word123!"
+*/
+/**
  * Create HTTP server.
  */
 
